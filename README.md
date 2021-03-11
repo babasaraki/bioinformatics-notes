@@ -66,6 +66,29 @@ Teaching Materials
 
 [List of RNA-Seq bioinformatics tools](https://en.m.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools)
 
+[Heng Li's Homepage](http://lh3lh3.users.sourceforge.net)
+
+[H3ABioNet Courses](https://h3abionet.org/training/bioinformaticseducation)
+
+[SequencEnG](http://education.knoweng.org/sequenceng/#)
+
+[Bioinformatics Workflows](https://h3abionet.org/tools-and-services/workflows)
+
+[Introduction to Bioinformatics course (IBT)](https://training.h3abionet.org/IBT_2017/?page_id=622)
+
+[Bioinformatics Workbook](https://bioinformaticsworkbook.org/#gsc.tab=0)
+
+[Reference-based RNA-Seq data analysis](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html)
+
+[Bioinformatics @ School](http://www.bioinformaticaindeklas.nl/en/)
+
+[Northwest Association for Biomedical Research](https://www.nwabr.org/teacher-center/introductory-bioinformatics-genetic-testing#resources)
+
+[ISCB High School Teachers Workshop](https://www.iscb.org/workshop-high-school-teachers-ismb2014)
+
+[Wikiomics](https://openwetware.org/wiki/Wikiomics)
+
+[Bioinformatics at COMAV](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)
 
 ## Computaional Biology
 
@@ -73,11 +96,17 @@ Teaching Materials
 
 [Computational Genomics with R](http://compgenomr.github.io/book/)
 
+[The Biologist’s Guide to Computing](http://book.biologistsguide2computing.com/en/stable/)
+
+[Learn about Bioinformatics and Computational Tools for Biology](http://barc.wi.mit.edu/education/)
+
+
 ## R programming 
 [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
 
 [R Packages](https://r-pkgs.org)
 
+[Statistical Inference via Data Science](https://moderndive.com/index.html)
 
 [clusterProfiler](http://yulab-smu.top/clusterProfiler-book/index.html)
 
