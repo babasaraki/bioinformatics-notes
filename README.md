@@ -1,4 +1,4 @@
-# bioinformatics-notes
+# Bioinformatics Notes
 Collection of bioinformatics resources 
 
 [R for Large Data & Bioinformatics](http://faculty.washington.edu/kenrice/bigr/)
@@ -16,7 +16,15 @@ Collection of bioinformatics resources
 - Linux Essentials
 - IIGB's Linux Cluster Manual
 
+## RNA-Seq
+
 [WebMeV](http://mev.tm4.org/#/welcome)
+
+[VirusSeq](https://odin.mdacc.tmc.edu/~xsu1/VirusSeq.html)
+
+A new algorithmic tool for detecting known viruses
+and their integration sites using next-generation
+sequencing of human cancer tissue.
 
 WebMeV (Multiple Experiment Viewer) is a cloud-based application supporting analysis, visualization, and stratification of large genomic data, particularly for RNASeq and microarray data.
 
@@ -48,7 +56,35 @@ GEN242 is a graduate class taught at the University of California, Riverside
 
 [RNA-seq workflow: gene-level exploratory analysis and differential expression](http://master.bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html#annotating-and-exporting-results)
 
-Here we walk through an end-to-end gene-level RNA-seq differential expression workflow using Bioconductor packages. We will start from the FASTQ files, show how these were quantified to the reference transcripts, and prepare gene-level count datasets for downstream analysis. We will perform exploratory data analysis (EDA) for quality assessment and to explore the relationship between samples, perform differential gene expression analysis, and visually explore the results.
+[Bernd Klaus @ EMBL](https://www.huber.embl.de/users/klaus/teaching.html#differential_expression_analysis_of_rna-seq_data_with_deseq2)
+
+Teaching Materials
+
+[iDEP.91](http://bioinformatics.sdstate.edu/idep/)
+
+[UC Business Analytics R Programming Guide](http://uc-r.github.io/introduction)
+
+[List of RNA-Seq bioinformatics tools](https://en.m.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools)
+
+
+## Computaional Biology
+
+[A Primer for Computational Biology](https://open.oregonstate.education/computationalbiology/)
+
+[Computational Genomics with R](http://compgenomr.github.io/book/)
+
+## R programming 
+[An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
+
+[R Packages](https://r-pkgs.org)
+
+
+[clusterProfiler](http://yulab-smu.top/clusterProfiler-book/index.html)
+
+[ShinyGO v0.61: Gene Ontology Enrichment Analysis](http://bioinformatics.sdstate.edu/go/)
+
+
+
 
 
 
