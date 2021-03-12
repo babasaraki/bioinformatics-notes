@@ -22,6 +22,8 @@ Collection of bioinformatics resources
 
 WebMeV (Multiple Experiment Viewer) is a cloud-based application supporting analysis, visualization, and stratification of large genomic data, particularly for RNASeq and microarray data.
 
+[RNA-Seq for the Next Generation](http://www.rnaseqforthenextgeneration.org/protocols/index.html)
+
 [VirusSeq](https://odin.mdacc.tmc.edu/~xsu1/VirusSeq.html)
 
 A new algorithmic tool for detecting known viruses
@@ -94,6 +96,16 @@ Teaching Materials
 
 Gene Expression Profiling Interactive Analysis 
 
+[NIH Bioinformatics](https://bioinformatics.niaid.nih.gov/resources)
+
+[Lists of Genomics Software/Service Providers](http://grouthbio.com/Genome_Software_Service.php)
+
+[Introduction To NGS Data](https://uofabioinformaticshub.github.io/Intro-NGS-fib/)
+
+[viral-ngs: genomic analysis pipelines for viral sequencing](https://viral-ngs.readthedocs.io/en/latest/)
+
+[Learn Galaxy](https://galaxyproject.org/learn/)
+
 ## Computaional Biology
 
 [A Primer for Computational Biology](https://open.oregonstate.education/computationalbiology/)
@@ -104,16 +116,35 @@ Gene Expression Profiling Interactive Analysis
 
 [Learn about Bioinformatics and Computational Tools for Biology](http://barc.wi.mit.edu/education/)
 
+
 ## R programming 
 [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
 
 [R Packages](https://r-pkgs.org)
 
-[Statistical Inference via Data Science](https://moderndive.com/index.html)
+[Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
 [clusterProfiler](http://yulab-smu.top/clusterProfiler-book/index.html)
 
 [ShinyGO v0.61: Gene Ontology Enrichment Analysis](http://bioinformatics.sdstate.edu/go/)
+
+
+## Data Science
+
+[from Data to Viz](https://www.data-to-viz.com)
+
+[Statistical Inference via Data Science](https://moderndive.com/index.html)
+
+[Data Carpentry for Biologists](https://datacarpentry.org/semester-biology/readings/R-intro/)
+
+[2016 Data Camp Class](https://statsdsu.firebaseapp.com/#!/course-detail/-KIMnC0W_09BA9RQrjmq)
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+
+
+
 
 
 
