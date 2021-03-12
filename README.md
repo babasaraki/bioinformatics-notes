@@ -20,13 +20,13 @@ Collection of bioinformatics resources
 
 [WebMeV](http://mev.tm4.org/#/welcome)
 
+WebMeV (Multiple Experiment Viewer) is a cloud-based application supporting analysis, visualization, and stratification of large genomic data, particularly for RNASeq and microarray data.
+
 [VirusSeq](https://odin.mdacc.tmc.edu/~xsu1/VirusSeq.html)
 
 A new algorithmic tool for detecting known viruses
 and their integration sites using next-generation
 sequencing of human cancer tissue.
-
-WebMeV (Multiple Experiment Viewer) is a cloud-based application supporting analysis, visualization, and stratification of large genomic data, particularly for RNASeq and microarray data.
 
 [Degust](https://degust.erc.monash.edu)
 
@@ -90,6 +90,10 @@ Teaching Materials
 
 [Bioinformatics at COMAV](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)
 
+[GEPIA](http://gepia.cancer-pku.cn/index.html)
+
+Gene Expression Profiling Interactive Analysis 
+
 ## Computaional Biology
 
 [A Primer for Computational Biology](https://open.oregonstate.education/computationalbiology/)
@@ -99,7 +103,6 @@ Teaching Materials
 [The Biologist’s Guide to Computing](http://book.biologistsguide2computing.com/en/stable/)
 
 [Learn about Bioinformatics and Computational Tools for Biology](http://barc.wi.mit.edu/education/)
-
 
 ## R programming 
 [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
